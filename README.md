@@ -47,9 +47,7 @@ class ATMmachine{
  }
  public void  CheckBalance(){
      System.out.println("Your Available Balance is -:"+Balance);
-	 
-     
-     
+	      
  }
  public void CashWithdraw(){
      System.out.println("Enter the Withdrwal Ammount");
